@@ -1,0 +1,58 @@
+sdks/python/dragonfly_cache/__init__.py
+  s_91a864673993d5::t_ee8a6349363f80 1-51
+sdks/python/dragonfly_cache/models.py
+  s_91a864673993d5::t_d529be3968a765 1-133
+sdks/python/dragonfly_cache/client.py
+  s_91a864673993d5::t_bc375edc86cd3f 1-122,128-408,411-413
+  s_91a864673993d5::t_91839dbf7bb96e 409-410
+  s_91a864673993d5::t_8b8f91899c85e5 123-127
+sdks/python/examples/share_model_checkpoint.py
+  s_91a864673993d5::t_983be1f370c617 1-29,31-37,39-52,54-58,61,64,71-72,74,76-77,81-89,92-102
+  s_91a864673993d5::t_a97ab30b94eeb1 30,38,53,59-60,62-63,65-70,73,75,78-80,90-91
+.github/workflows/python-sdk.yml
+  s_91a864673993d5::t_3c7258d021a89a 1-49
+sdks/python/tests/test_validators.py
+  s_91a864673993d5::t_f8e9f7ecb8d381 15-16,24-28,30-107,114-131
+  s_91a864673993d5::t_a2084c62e52602 1-14,17-23,29
+  s_91a864673993d5::t_e1c4040478f38e 108-113
+sdks/python/.gitignore
+  s_91a864673993d5::t_e181933457cb7e 1-13
+sdks/python/README.md
+  s_91a864673993d5::t_3f4b4a7d3abd85 1-137
+sdks/python/dragonfly_cache/exceptions.py
+  s_91a864673993d5::t_7536ae1c2fae05 1-93
+sdks/python/dragonfly_cache/validators.py
+  s_91a864673993d5::t_e7893a5aff3fbe 52,58-61,66,68-73
+  s_91a864673993d5::t_455a01ca45130d 1-51,53-57,62-65,67,74-163
+sdks/python/tests/conftest.py
+  s_91a864673993d5::t_abc7ae951e86d6 85,96-97
+  s_91a864673993d5::t_98f4181dde53a6 1-14,16,22,24-35,39-46,50-84,86-95,98-124,172,174-178,180-182,185-191,196-213
+  s_91a864673993d5::t_49b9547959aebb 135-137,161-162
+  s_91a864673993d5::t_fed7ba39e5a760 125-134,138-160,163-164
+  s_91a864673993d5::t_d251e0702d45e9 47-49
+  s_91a864673993d5::t_bfa100f476a27f 165-171,173,179,192-195
+  s_91a864673993d5::t_c0403a470abf49 15,17-21,23
+  s_91a864673993d5::t_78b136a36cbe6a 183-184
+  s_91a864673993d5::t_1ca19addc33c55 36-38
+sdks/python/tests/test_client.py
+  s_91a864673993d5::t_3a3153cdbe009b 1-94,96-99,101-146
+  s_91a864673993d5::t_2b81dc8e10c46d 95,100
+sdks/python/pyproject.toml
+  s_91a864673993d5::t_26f21be01943c5 1-48
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "e8df4ea7accc077af5d7532406d727951edb0f4c",
+  "prompts": {},
+  "sessions": {
+    "s_91a864673993d5": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "13c35178-4e10-4131-b63b-bf2f59c3a099",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
