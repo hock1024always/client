@@ -1,0 +1,19 @@
+.github/workflows/python-sdk.yml
+  s_91a864673993d5::t_4e82de7beb8157 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "303a0d131c83417ea2390a8d001fe90559c1bb41",
+  "prompts": {},
+  "sessions": {
+    "s_91a864673993d5": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "13c35178-4e10-4131-b63b-bf2f59c3a099",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
