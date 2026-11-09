@@ -1,0 +1,32 @@
+sdks/python/dragonfly_cache/__init__.py
+  s_91a864673993d5::t_c9dcf1e902e0fb 41
+  s_91a864673993d5::t_deb68bd36085ce 22
+sdks/python/tests/test_aclient.py
+  s_91a864673993d5::t_c9a815c897970b 1-104
+sdks/python/pyproject.toml
+  s_91a864673993d5::t_677cb332b22026 47
+  s_91a864673993d5::t_5eda5c7525d59d 34
+  s_91a864673993d5::t_24a693021889a6 48
+sdks/python/dragonfly_cache/aclient.py
+  s_91a864673993d5::t_38dd8cb1943671 291-292,294-296,298-300,303
+  s_91a864673993d5::t_841e8e420b1d1b 1-290,293,297,301-302,304-306
+  s_91a864673993d5::t_abcaaf4fb1b2cd 307-310
+sdks/python/README.md
+  s_91a864673993d5::t_071f0f7111776d 53-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "06ade1ca001d0e6992ff94c10a1ce085e02d8517",
+  "prompts": {},
+  "sessions": {
+    "s_91a864673993d5": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "13c35178-4e10-4131-b63b-bf2f59c3a099",
+        "model": "glink/GLM-5.3:glink_domestic"
+      },
+      "human_author": "xiaoqian <xiaoqian@U-2PF333RF-2026.local>"
+    }
+  }
+}
